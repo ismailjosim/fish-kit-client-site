@@ -109,7 +109,7 @@ const Footer = () => {
                             <button
                                 className='text-gray-600 transition-colors duration-300 hover:underline hover-text-blue-500'
                             >
-                                info@merakiui.com
+                                info@fisher.com
                             </button>
                         </div>
                     </div>
@@ -127,7 +127,7 @@ const Footer = () => {
                     </button>
 
                     <p className='mt-4 text-sm text-gray-500 sm:mt-0'>
-                        © Copyright 2021. All Rights Reserved.
+                        © Copyright 2019-2023. All Rights Reserved.
                     </p>
                 </div>
             </div>
